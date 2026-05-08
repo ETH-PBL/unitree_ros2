@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "Setup unitree ros2 environment with default interface"
 source /opt/ros/${ROS_DISTRO}/setup.bash
-source /workspace/cyclonedds_ws/install/setup.bash
+source /workspace/install/setup.bash
 export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp
