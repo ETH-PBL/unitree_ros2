@@ -4,6 +4,7 @@
 		"docker-compose.yml"
 	],
 	"service": "devcontainer-humble",
+	"runServices": ["devcontainer-humble"],
 	"workspaceFolder": "/workspace",
 	"customizations": {
 		"vscode": {
