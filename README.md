@@ -1,3 +1,5 @@
 - reopen in devcontainer
 - `colcon build --symlink-install` in `/workspace`
+- write the correct interface in `setup.bash`
 - `source setup.bash`
+- `ros2 topic list` should work
